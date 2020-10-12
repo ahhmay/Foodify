@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431891601350",
+    "firebase_url": "https://foodifyamey.firebaseio.com",
+    "project_id": "foodifyamey",
+    "storage_bucket": "foodifyamey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431891601350:android:b08a86f4e9bab54a2e44c7",
+        "android_client_info": {
+          "package_name": "com.example.noone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431891601350-ub65tefgsc3gq0gc7pg9ujondku5rrce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpLXgrd5pfE9cO2Us9MNZt07Y1o5O2b08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431891601350-ub65tefgsc3gq0gc7pg9ujondku5rrce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

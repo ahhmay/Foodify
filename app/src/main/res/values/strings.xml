@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FOODIFY</string>
+    <string name="toUserMessage">We sent the confirmaton code to your mobile. Please check your inbox.</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+    <string name="become_pro_member">Gold</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
